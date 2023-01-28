@@ -15,7 +15,7 @@ It is a simple utility application that performs various operations on text or p
 
 <h2>Usage :</h2>
 
-    1. Create Virtual Environment:  [Python Virtual Environment Documentation]("https://docs.python.org/3/library/venv.html)
+    1. Create Virtual Environment:  [Python Virtual Environment Documentation]:"https://docs.python.org/3/library/venv.html"
 
     2. pip install -r requirements.txt
     
