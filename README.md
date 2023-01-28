@@ -15,12 +15,12 @@ It is a simple utility application that performs various operations on text or p
 
 <h2>Usage :</h2>
 
-    1. Create Virtual Environment: https://docs.python.org/3/library/venv.html
+    1. Create Virtual Environment: <a href="https://docs.python.org/3/library/venv.html"> Python Virtual Environment Documentation </a>
 
     2. pip install -r requirements.txt
     
     3. python django_web_app/manage.py runserver
     
-    4. In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
+    4. In your web browser enter the address : <a href="http://localhost:8000"> </a> or < a href="http://127.0.0.1:8000/"> </a>
 
 <h2> Thankyou <h2>
